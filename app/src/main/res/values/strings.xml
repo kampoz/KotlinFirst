@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinFirst</string>
+    <string name="vogella">Vogella</string>
+    <string name="tutorials_point">Tutorials point</string>
+    <string name="mind_dorks">Mind dorks</string>
+</resources>
